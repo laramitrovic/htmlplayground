@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: blue;
+    font-family: courier;
+    font-size: 200%;
+    text-align: right;
+}
+h2 {
+    color: yellow;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 60px;
+    text-align: center;
+
+}
+h3 {
+  font-family: courier;
+  font-size: 50px;
+  color: red;
+}
+p {
+    color: red;
+    border: 1px solid powderblue;
+}
